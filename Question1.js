@@ -7,3 +7,6 @@ async function getData() {
     console.error(error);
   }
 }
+
+
+getData();
